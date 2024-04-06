@@ -1,0 +1,409 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+    width: 100vw;
+    background-color: #165866;
+    scroll-behavior: smooth;
+    color: aliceblue;
+}
+
+header{
+    height: 30rem;
+    background-image: url("https://www.saudiembassy.net/sites/default/files/u67/saudiV2.jpg ");
+    background-size: cover;
+    background-repeat:no-repeat ;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 2px solid aliceblue;
+    top: 0;
+    bottom: 0;
+    z-index: 2px;
+    
+}
+header  h1{
+font-size: 6rem;
+color: aliceblue;
+margin-top: 150px;
+}
+.navbar .search{
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 500px;
+
+}
+
+.navbar .search #srch input{
+    text-align: left;
+    display: block;
+    width:200px;
+    border:1px solid gray;
+    border-radius: 5px;
+    height: 20px;
+
+    
+}
+.navbar{
+    height: 3rem;
+    background-color:rgb(240, 243, 244);
+    border: 2px solid rgb(181, 181, 188);
+    border-radius:13px;
+    top: 0;
+    position: sticky;
+    box-shadow: 0 10px 5px 5px rgb(170, 170, 169);
+
+}
+
+
+.navbar ul li{
+    margin: 0 45px;
+    list-style:none;
+}
+.search label{
+    margin:0 15px   ;
+}
+.navbar ul li a{
+    text-decoration: none;
+    background: #60d8cc;
+    color:aliceblue;
+    padding: 4px 6px;
+    border-radius:10px;
+
+    
+}
+.navbar ul li a:hover{
+color: black;
+background-color: #b6b5b4;
+}
+.sec1{
+    padding: 30px;
+}
+.sec1 .para img{
+background-position:cover;
+background-repeat: no-repeat;
+width: 1000px;
+height: 400px;
+margin: auto;
+}
+.sec1 h1{
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.sec1 p{
+    justify-self: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sec2 h1{
+    align-content: center;
+    justify-content: center;
+    font-size: 2rem;
+
+}
+.at1 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at1 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at2 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at2 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.at3 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at3 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.at4 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at4 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at5 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at5 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at6 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at6 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at7 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at7 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at8 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at8 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at9 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at9 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at10 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at10 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at11 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at11 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at12 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at12 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at13 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at13 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at14 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at14 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at15 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at15 p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.at img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at16 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at17 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at18 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at19 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at20 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at21 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at22 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at23 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+
+.at24 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at25 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at26 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at27 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at28 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+}
+.at29 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+
+}
+.at30 img{
+    display: block;
+    width: 1000px;
+    margin:auto;
+    border-radius: 3px;
+
+}
+
+.formgap{
+    margin: 20px;
+}
+.formgap label{
+    color: aliceblue;
+
+}
+#em , #ps , #pw, #nm{
+    padding-right: 500px;
+    margin:8px auto;
+    border: 2px solid gray;
+    border-radius: 2px;
+} 
+
